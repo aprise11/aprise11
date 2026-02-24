@@ -16,13 +16,13 @@
 - 👩🏼‍💻 **Previous Studies and Projects:**  
 I have built a solid foundation in front-end development through various projects, showcasing my skills in HTML, CSS, JavaScript, React, and responsive design. Here’s a breakdown of my work:  
   
-     ***HTML & CSS:*** [Slow Living Info Page](https://www.shecodes.io/cohorts/758/projects/1027917?_gl=1*rupx3k*_gcl_au*MTc1NjYwMTM2OS4xNzI3ODgyOTEx) 
+     ***HTML & CSS:*** [Slow Living Info Page](https://www.shecodes.io/projects/1027917?_gl=1*154u6cb*_gcl_au*MTA0Njg1OTMzMS4xNzcxOTY0MjUy) 
 
-     ***JavaScript:*** [Weather App](https://www.shecodes.io/cohorts/819/projects/1340098?_gl=1*13ituhd*_gcl_au*MTc1NjYwMTM2OS4xNzI3ODgyOTEx).  
+     ***JavaScript:*** [Weather App](https://www.shecodes.io/projects/1340098?_gl=1*1fbctz7*_gcl_au*MTA0Njg1OTMzMS4xNzcxOTY0MjUy).  
 
-     ***React:*** [React Weather App](https://www.shecodes.io/cohorts/1131/projects/1619439?_gl=1*1i9sik6*_gcl_au*MTc1NjYwMTM2OS4xNzI3ODgyOTEx).  
+     ***React:*** [React Weather App](https://www.shecodes.io/projects/1619439?_gl=1*75jtrt*_gcl_au*MTA0Njg1OTMzMS4xNzcxOTY0MjUy).  
 
-     ***Responsive Design:*** [About Me Website](https://www.shecodes.io/cohorts/997/projects/1456787?_gl=1*bwpv95*_gcl_au*MTc1NjYwMTM2OS4xNzI3ODgyOTEx)
+     ***Responsive Design:*** [About Me Website](https://prismatic-panda-2ddff3.netlify.app/).
 
 - 👯 **Looking to Collaborate:** I’m open to collaborating on diverse projects and am currently seeking an internship to gain hands-on experience and further develop my skills in IT.
 - 📫 **Let’s Connect:** Reach out to me on [LinkedIn](https://www.linkedin.com/in/agneta-prīse) or explore my work through the links provided.
